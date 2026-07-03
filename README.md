@@ -28,6 +28,8 @@ An intelligent, data-driven web application designed to help farmers and agricul
 ├── model.pkl               # Trained Machine Learning classification model
 ├── minmaxscaler.pkl        # Serialized MinMax Scaler instance
 ├── standscaler.pkl         # Serialized Standard Scaler instance
+├── README.md               # Project documentation
+├── screenshots/            # UI application walkthrough images
 ├── templates/              
 │   └── index.html          # Frontend data entry form and UI layout
 └── images/                 # Reference assets and UI graphics
